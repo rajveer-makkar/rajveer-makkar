@@ -9,7 +9,7 @@
 - 👯 Open to collaborating on **Web Development & Open Source Projects**
 - 📫 Reach me at: **rajveermakkar15@gmail.com**
 - ⚡ Freshman who likes understanding how things *actually* work
-- Portfolio Link: **https://rajveermakkarportfolio.netlify.app/**
+- Portfolio Link: **https://portfolio-rajveermakkar.vercel.app/**
 ---
 
 ## 🌐 Connect With Me
