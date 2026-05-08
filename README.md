@@ -19,15 +19,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/rajveermakkar)
 
 ---
-## Achievement Badges
-
-<p align="center">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110"/>
-  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="110"/>
-  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbjOrHtJiVcN1ZriNsr374JYh3lxB6mWD25HB5F34qi2rEckla4PDrh7czdZPRvtEPOGNCBzloAVuwdvdy4xfaehiiCwSbXHu8=s0-d-e1-ft#https://gssoc.girlscript.org/badges/contributor.png" width="110"/>
-</p>
-
----
 ## Tech Stack
 
 ### Languages
@@ -55,4 +46,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## Achievement Badges
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="110"/>
+  <img src="https://ci3.googleusercontent.com/meips/ADKq_NbjOrHtJiVcN1ZriNsr374JYh3lxB6mWD25HB5F34qi2rEckla4PDrh7czdZPRvtEPOGNCBzloAVuwdvdy4xfaehiiCwSbXHu8=s0-d-e1-ft#https://gssoc.girlscript.org/badges/contributor.png" width="110"/>
 </p>
