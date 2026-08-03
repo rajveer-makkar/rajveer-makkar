@@ -59,25 +59,18 @@
 - **🛡️ AI Recon Assistant** — Automated recon & security assessment (WHOIS, DNS, SSL, port scan, PDF reports)
 - **⚖️ CaseForge** — Digital forensics workbench
 - **🏪 CirQL Store** — Campus marketplace
-- **💻 Pilot IDE** *(coming soon)* — AI-powered desktop IDE
+- **💻 Pilot IDE** — AI-powered desktop IDE
 
-## 📈 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-<img height="160" src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/main/profile/stats.svg"/>
-<img height="160" src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/main/profile/top-langs.svg"/>
+<img src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 💻 LeetCode
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/rajveermakkar?theme=dark&font=Karma"/>
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ## 🌐 Connect With Me
