@@ -41,8 +41,8 @@ Building AI-powered security tools, digital forensics platforms, and scalable we
   - System Design
   - Cloud Security
 - 📝 I write cybersecurity & AI articles on **Medium**
-- ⚡ Open Source Contributor (**GSSoC 2026**)
-<!-- - 🎯 Goal: **Google Summer of Code 2027** -->
+  <!-- - ⚡ Open Source Contributor (**GSSoC 2026**) -->
+  <!-- - 🎯 Goal: **Google Summer of Code 2027** -->
 
 ---
 
@@ -135,15 +135,9 @@ AI-powered desktop IDE focused on developer productivity.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajveer-Makkar&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/main/profile/stats.svg"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajveer-Makkar&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rajveer-Makkar&theme=tokyonight"/>
+<img height="170" src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/main/profile/top-langs.svg"/>
 
 </p>
 
