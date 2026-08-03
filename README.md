@@ -74,12 +74,18 @@
 <img src="https://leetcard.jacoblin.cool/rajveermakkar?theme=dark&font=Karma"/>
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Rajveer-Makkar"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="https://portfolio-rajveermakkar.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" height="45"/></a>
-<a href="https://medium.com/@0xV33r"><img src="https://img.icons8.com/ios-filled/50/medium-monogram.png" height="45"/></a>
+<a href="https://medium.com/@0xV33r"><img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" height="45"/></a>
 <a href="mailto:rajveermakkar15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
