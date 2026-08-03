@@ -81,5 +81,5 @@
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="https://portfolio-rajveermakkar.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" height="45"/></a>
 <a href="https://medium.com/@0xV33r"><img src="https://img.icons8.com/ios-filled/50/medium-monogram.png" height="45"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+<a href="mailto:rajveermakkar15@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
