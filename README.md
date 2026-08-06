@@ -61,6 +61,11 @@
 - **🏪 CirQL Store** — Campus marketplace
 - **💻 Pilot IDE** — AI-powered desktop IDE
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🐍 Contribution Snake
 
 <p align="center">

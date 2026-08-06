@@ -41,4 +41,5 @@ jobs:
       - name: Update "Currently Working On" section
         uses: jamesgeorge007/github-activity-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "chore: update recent activity"
