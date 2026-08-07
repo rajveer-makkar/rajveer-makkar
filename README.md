@@ -13,39 +13,39 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
 <tr>
 <td width="65%" valign="top">
 
-- 🎓 B.Tech CSE (Cyber Security) @ **KIET Group of Institutions**
-- 🛡️ Cybersecurity Intern (**APCSIP'26** – UP Police)
-- 🔭 Building **DeepTrace** — Agentic Deep Research Platform
-- 🧠 AI Security, Digital Forensics, LLM Apps & Security Engineering
-- 🌱 Learning **AI Agents, LLM Engineering, System Design, Cloud Security**
-- 📝 Writing cybersecurity & AI articles on **Medium**
+- B.Tech CSE (Cyber Security) @ **KIET Group of Institutions**
+- Cybersecurity Intern (**APCSIP'26** – UP Police)
+- Building **DeepTrace** — Agentic Deep Research Platform
+- AI Security, Digital Forensics, LLM Apps & Security Engineering
+- Learning **AI Agents, LLM Engineering, System Design, Cloud Security**
+- Writing cybersecurity & AI articles on **Medium**
 
 </td>
 <td width="35%" align="right" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="240"/>
+<img src="bleh.jpeg" width="320" height="240"/>
 
 </td>
 </tr>
 </table>
 
-## 🔭 Currently Working On
+## Currently Working On
 
 <!--START_SECTION:activity-->
 
-- 🚀 Building DeepTrace v2
-- 🛡️ Improving AI Recon Assistant
-- 🤖 Learning AI Agents
+- Building DeepTrace v2
+- Improving AI Recon Assistant
+- Learning AI Agents
 
 <!--END_SECTION:activity-->
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,bash"/>
@@ -53,34 +53,34 @@
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,pytorch,tensorflow,docker,linux,git"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- **🔎 DeepTrace** — Agentic deep research platform
-- **🛡️ AI Recon Assistant** — Automated recon & security assessment (WHOIS, DNS, SSL, port scan, PDF reports)
-- **⚖️ CaseForge** — Digital forensics workbench
-- **🏪 CirQL Store** — Campus marketplace
-- **💻 Pilot IDE** — AI-powered desktop IDE
+- **DeepTrace** — Agentic deep research platform
+- **AI Recon Assistant** — Automated recon & security assessment (WHOIS, DNS, SSL, port scan, PDF reports)
+- **CaseForge** — Digital forensics workbench
+- **CirQL Store** — Campus marketplace
+- **Pilot IDE** — AI-powered desktop IDE
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [STUN, TURN, and ICE: How Your Voice Actually Reaches the Other Side](https://medium.com/@0xV33r/stun-turn-and-ice-how-your-voice-actually-reaches-the-other-side-d9305aa5eb5b?source=rss-6781bfae3a1c------2)
 - [SS7 and Mobile Networks](https://medium.com/@0xV33r/ss7-and-mobile-networks-cc3a513aa294?source=rss-6781bfae3a1c------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rajveer-Makkar/Rajveer-Makkar/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-## 💻 LeetCode
+## LeetCode
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/rajveermakkar?theme=dark&font=Karma"/>
 </p>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://github.com/Rajveer-Makkar"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
