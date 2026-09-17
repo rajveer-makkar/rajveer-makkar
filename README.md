@@ -64,9 +64,9 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Actually Happens When You Visit a Website?](https://medium.com/@0xV33r/what-actually-happens-when-you-visit-a-website-28058df46900?source=rss-6781bfae3a1c------2)
 - [How Does AI Actually Use Web Search?](https://medium.com/@0xV33r/how-does-ai-actually-use-web-search-d217adccbfab?source=rss-6781bfae3a1c------2)
 - [STUN, TURN, and ICE: How Your Voice Actually Reaches the Other Side](https://medium.com/@0xV33r/stun-turn-and-ice-how-your-voice-actually-reaches-the-other-side-d9305aa5eb5b?source=rss-6781bfae3a1c------2)
-- [SS7 and Mobile Networks](https://medium.com/@0xV33r/ss7-and-mobile-networks-cc3a513aa294?source=rss-6781bfae3a1c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contribution Snake
